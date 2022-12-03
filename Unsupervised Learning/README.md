@@ -28,9 +28,7 @@ Step-7: FINISH
 * Choosing k manually
 * Being dependent on initial values.
 * Clustering data of varying sizes and density.
-* Clustering outliers.
-
-
+* Clustering outliers:
 Centroids can be dragged by outliers, or outliers might get their own cluster instead of being ignored. 
 Consider removing or clipping outliers before clustering.
 * Scaling with number of dimensions.
