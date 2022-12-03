@@ -13,8 +13,8 @@ Programming language used in this repository is Python 3.
 
 # Algorithms Covered
 ## Unsupervised Learning
-Principal Component Analysis(PCA)
-K-Means
+* Principal Component Analysis(PCA)
+* K-Means
 ## Supervised Learning
 * K-Nearest Neighbors
 * Linear Regression
