@@ -1,4 +1,4 @@
-# k-Means Clustering
+# K-Means Clustering
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/119746917/205459851-ce10ec06-ed5e-4e95-8dfb-6f8d0cb7357e.png">
 
 ## How the K-means works
@@ -29,6 +29,8 @@ Step-7: FINISH
 * Being dependent on initial values.
 * Clustering data of varying sizes and density.
 * Clustering outliers.
+
+
 Centroids can be dragged by outliers, or outliers might get their own cluster instead of being ignored. 
 Consider removing or clipping outliers before clustering.
 * Scaling with number of dimensions.
