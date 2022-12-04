@@ -17,7 +17,8 @@ nearest to that query point.
 * regression tasks.
 An unlabeled data point is predicted by averaging the values among the k training samples nearest to that query point.
 For our distance measure, we will choose the Euclidean distance defined by the following equation:
- $$ d(p, q) = \sqrt{(p - q)^{T} (p - q)} $$
+ 
+ $d(p, q) = \sqrt{(p - q)^{T} (p - q)}$
 ## Advantages
 * No training period. As discussed before, knn does not have a training period. This kind of learning model is called 
   lazy learner (Instance based learning), which uses sample data set directly to make real-time predictions based on some 
