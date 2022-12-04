@@ -8,6 +8,8 @@ First, a multilayer neural network has a non-linear activation function in most 
 $$ \sigma(x) = \frac{1}{1 + e^{-x}} $$
 
 $$ tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}} $$$$ RELU(x) = \begin{cases} x & \text{if}\ x > 0,\\0 & \text{otherwise}\end{cases} $$
+
+
 Further, a MLP consists of many layers (an input and an output layer with one or more hidden layers) of non-linear activating nodes. Since MLPs are fully connected, each node in one layer connects with a certain weight to every node in the following layer.
 
 Learning occurs in MLP by changing connection weights after each piece of data is processed, based on the amount of error in the output compared to the expected result. This is a supervised learning, and is carried out through backpropagation, a generalization of the least mean squares algorithm in the linear perceptron.
