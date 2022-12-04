@@ -3,7 +3,8 @@
 A multilayer neural network (or multilayer perceptron ,MLP) is a class of feedforward artificial neural network (ANN). 
 It's an extension of perceptrons, with more layers and non-linear activation functions.
 ## Algorithm 
-First, a multilayer neural network has a non-linear activation function in most cases, and sigmoid ($\sigma(\cdot)$), hyperbolic tangent ($tanh(\cdot)$) and rectified linear ($RELU(\cdot)$) activation functions are widely used. $$ \sigma(x) = \frac{1}{1 + e^{-x}} $$
+First, a multilayer neural network has a non-linear activation function in most cases, and sigmoid ($\sigma(\cdot)$), hyperbolic tangent ($tanh(\cdot)$) and rectified linear ($RELU(\cdot)$) activation functions are widely used. 
+$$ \sigma(x) = \frac{1}{1 + e^{-x}} $$
 
 $$ tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}} $$$$ RELU(x) = \begin{cases} x & \text{if}\ x > 0,\\0 & \text{otherwise}\end{cases} $$
 Further, a MLP consists of many layers (an input and an output layer with one or more hidden layers) of non-linear activating nodes. Since MLPs are fully connected, each node in one layer connects with a certain weight to every node in the following layer.
