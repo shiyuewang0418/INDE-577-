@@ -43,4 +43,11 @@ highly uncorrelated, so the results of weak learners are uncorrelated, but the m
 * Parameter turning is needed.
 * Cannot deal with categoric data with levels
 
+## Dataset
+The datasets included this lecture is:
+
+Wheat seeds dataset:
+
+Similar to iris dataset. The data set contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, represented by 1, 2 and 3 respectively
+Link:https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci
 
