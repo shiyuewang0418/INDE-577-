@@ -31,3 +31,5 @@ analytical decision support tool, where the expected values (or expected utility
 * Require some kind of measurement as to how well they are doing.
 * Need to be careful with parameter tuning.
 * Can create biased learned trees if some classes dominate.
+
+## Data
