@@ -9,23 +9,4 @@ It is a type of neural network model, perhaps the simplest type of neural networ
 It consists of a single node or neuron that takes a row of data as input and predicts a class label
 
 ## Algorithm 
-First a function that maps input $\mathbf {x}$ (a real-valued vector) to an output value $f(\mathbf {x} )$ (a single binary value) is given by
-
-$$ f(\mathbf{x}) = \begin{cases}1 & \text{if }\ \mathbf{w} \cdot \mathbf{x} + b > 0,\\0 & \text{otherwise}\end{cases} $$
-
-
-where $\mathbf {w}$ is a vector of real-valued weights, $\mathbf {w} \cdot \mathbf {x} = \sum_{i=1}^{m} {w_{i}x_{i}}$ is the dot product, $m$ is the number of inputs to the perceptron.
-
-And the algorithm is
-
-* Initialize random small weights.
-
-
-For each sample $\mathbf{x}_j$ and $y_j$, perform the following steps:
-Calculate the actual output:
-$$ y_j(t) = f[\mathbf{x}_j^T\cdot\mathbf{w}(t)] $$
-
-
-* Update the weights:
-$$ \mathbf{w}(t+1) = \mathbf{w}(t) \boldsymbol{+} \cdot \mathbf{x}_j^T(\mathbf{d} - \mathbf{y}(t)) $$
-Updates the weights after steps 2, until meets stopping criterias.
+<img width="1089" alt="image" src="https://user-images.githubusercontent.com/119746917/205508840-382e364e-5b9b-42ba-8c42-ba0191d417b1.png">
