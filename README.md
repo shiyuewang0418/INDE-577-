@@ -29,3 +29,4 @@ Programming language used in this repository is Python 3.
 For this project, I used Wheat-seeds data from Kaggle(https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci).
 This dataset contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, 
 represented by 1, 2 and 3 respectively. It has 8 columns which represent 8 variables, I mainly uses Type, Kernel.Groove, Kernel.Width and kernel.Length for this project.
+Also, for Multilayer Neural Network, I used MNIST dataset. The dataset has 60,000 training data with 28x28 grayscale images and 10,000 test images. Images are labeled over 10 categories. The pixel depth allows 255 different intensities, with 0 being black and 255 being white. And the classes are: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot with labels 0 to 9 respectively.
