@@ -33,3 +33,7 @@ analytical decision support tool, where the expected values (or expected utility
 * Can create biased learned trees if some classes dominate.
 
 ## Data
+The dataset used is Wheat-sedds which contains size measurements for three seeds species.
+
+In this Decision Tree alogrithm, we use 'Kernel.Width' and 'Kernel.Length' as features to train the model and make the classification. 
+Finally, using confusion matrix and classification report to evaluate the performance of model.
