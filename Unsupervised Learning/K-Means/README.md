@@ -1,7 +1,7 @@
 # K-Means Clustering
 <img width="715" alt="image" src="https://user-images.githubusercontent.com/119746917/205459851-ce10ec06-ed5e-4e95-8dfb-6f8d0cb7357e.png">
 
-## How the K-means works
+## Algorithm 
 Step-1: Select the value of K, to decide the number of clusters to be formed.
 
 Step-2: Select random K points which will act as centroids.
