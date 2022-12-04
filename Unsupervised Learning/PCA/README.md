@@ -30,3 +30,6 @@ on the scale of the variables. If one variable seems to have more variation beca
 the others, this variable will be dominant in the principal components and will produce less than ideal results. 
 On a similar note, the effectiveness of PCA is greatly influenced by the appearance of skew in the data with thick tails. 
 Lastly, PCA can be quite challenging to interpret, especially since this method mixes variables together to maximize variability.
+
+## Data
+The dataset used is Wheat-seeds which contains size measurements for three seeds species.
