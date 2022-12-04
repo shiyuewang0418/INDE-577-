@@ -39,3 +39,11 @@ linear regression model in order to solve the linear regression problem.
   variance of dependent variable (so that $E[\epsilon_i]=0$ and $Var[\epsilon_i] = \sigma^2$), which is always not true 
   because in real world it's hard for people to find exactly all independent variables that affect the dependent variable. 
   Usually people will have input that are dependent and insufficient.
+
+## Dataset
+The datasets included this lecture is:
+
+Wheat seed dataset:
+
+Similar to iris dataset. The data set contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, represented by 1, 2 and 3 respectively
+Link:https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci
