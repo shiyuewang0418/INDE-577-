@@ -47,3 +47,11 @@ research tool, you will find that scikit-learn is both well-documented and easy 
 it lets you define a predictive data model in just a few lines of code, and then use that model to fit your data. It’s 
 versatile and integrates well with other Python libraries, such as matplotlib for plotting, numpy for array vectorization, 
 and pandas for dataframes.
+
+## Dataset
+The datasets included this lecture is:
+
+Wheat seed dataset:
+
+Similar to iris dataset. The data set contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, represented by 1, 2 and 3 respectively
+Link:https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci
