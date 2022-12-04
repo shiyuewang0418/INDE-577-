@@ -34,3 +34,5 @@ Consider removing or clipping outliers before clustering.
 * Scaling with number of dimensions.
 
 
+## Data
+In this K-Means Clustering alogrithm, I use 'Kernel. Width' and 'Kernel.Length' as features to train the model and make the classification.
