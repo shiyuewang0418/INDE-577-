@@ -13,11 +13,17 @@ There are two primary types of logistic regression:
 * Binary (e.g. determine whether a tumor is malignant or benign, or if a person will default on a bank loan)
 * Multi-linear functions that predict class labels (e.g. is the information describing a cat, dog, or a sheep)
 
+
 Model:
+
+
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/119746917/205508573-f9081ea0-6be2-493e-8271-8270686d19aa.png">
 
 
+
 Cost Function:
+
+
 <img width="816" alt="image" src="https://user-images.githubusercontent.com/119746917/205508588-0a1a75eb-fe49-418a-8aa2-f45f391e18f1.png">
 
 
