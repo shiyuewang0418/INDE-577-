@@ -25,3 +25,7 @@ Programming language used in this repository is Python 3.
 * Ensemble Learning: Random Forest(bagging)
 * Ensemble Learning: Boosting
 
+# Dataset
+For this project, I used Wheat-seeds data from Kaggle(https://www.kaggle.com/datasets/jmcaro/wheat-seedsuci).
+This dataset contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, 
+represented by 1, 2 and 3 respectively. It has 8 columns which represent 8 variables, I mainly uses Type, Kernel.Groove, Kernel.Width and kernel.Length for this project.
