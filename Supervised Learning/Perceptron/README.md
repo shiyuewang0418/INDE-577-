@@ -10,3 +10,13 @@ It consists of a single node or neuron that takes a row of data as input and pre
 
 ## Algorithm 
 <img width="1089" alt="image" src="https://user-images.githubusercontent.com/119746917/205508840-382e364e-5b9b-42ba-8c42-ba0191d417b1.png">
+
+## Advantage
+
+* Easy to use and understand.
+* Simple
+
+## Disadvantage
+
+* Cannot create non-linear boundary
+* Output can take on only one of two values
