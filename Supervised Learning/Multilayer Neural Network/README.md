@@ -42,3 +42,8 @@ $$-\frac{\partial\mathcal{E}(n)}{\partial v_j(n)} = \phi^\prime (v_j(n))\sum_k -
 * Large model complexity if number of layers and neurons are large
 * Slow training process if model is large
 * Easy to overfit.
+
+## Dataset
+Fashion MNIST Dataset
+
+The Fashion MNIST data set (from keras) is a wide-used multi-class image classification dataset. The dataset has 60,000 training data with 28x28 grayscale images and 10,000 test images. Images are labeled over 10 categories. The pixel depth allows 255 different intensities, with 0 being black and 255 being white. And the classes are: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot with labels 0 to 9 respectively.
