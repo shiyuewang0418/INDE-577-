@@ -8,6 +8,19 @@ because of overlapping. In this case, we consider the probabilistic binary class
 Instead of creating a single neuron model for predicting a class deterministic label, we will next build 
 a single neuron model that predicts a class probability.
 
+## Algorithm 
+There are two primary types of logistic regression:
+* Binary (e.g. determine whether a tumor is malignant or benign, or if a person will default on a bank loan)
+* Multi-linear functions that predict class labels (e.g. is the information describing a cat, dog, or a sheep)
+
+Model:
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/119746917/205508471-d33199f3-8857-4c8a-8360-662699fcd8b5.png">
+
+
+Cost Function:
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/119746917/205508511-df9e6042-3829-400d-8fe6-4dd5f6abcceb.png">
+
+
 ## Advantages
 * Easier to implement, interpret, and very efficient to train.
 * Running fast
