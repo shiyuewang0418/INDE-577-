@@ -14,12 +14,12 @@ There are two primary types of logistic regression:
 * Multi-linear functions that predict class labels (e.g. is the information describing a cat, dog, or a sheep)
 
 Model:
-<img width="804" alt="image" src="https://user-images.githubusercontent.com/119746917/205508540-e3a89ccd-c557-4d28-9b4c-3a14813ccac0.png">
-
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/119746917/205508573-f9081ea0-6be2-493e-8271-8270686d19aa.png">
 
 
 Cost Function:
-<img width="779" alt="image" src="https://user-images.githubusercontent.com/119746917/205508511-df9e6042-3829-400d-8fe6-4dd5f6abcceb.png">
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/119746917/205508588-0a1a75eb-fe49-418a-8aa2-f45f391e18f1.png">
+
 
 
 ## Advantages
